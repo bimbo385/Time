@@ -18,7 +18,7 @@ hour();            // the hour now  (0-23)
 minute();          // the minute now (0-59)          
 second();          // the second now (0-59) 
 day();             // the day now (1-31)
-weekday();         // day of the week, Sunday is day 0 
+weekday();         // day of the week, Sunday is day 1 
 month();           // the month now (1-12)
 year();            // the full four digit year: (2009, 2010 etc) 
 
